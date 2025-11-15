@@ -1,8 +1,12 @@
 package com.multipedidos.commons;
 
-public class App {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+
+class AppTest {
+
+    @Test
+    void testApp() {
+        assertTrue(true);
     }
 }
-
