@@ -5,7 +5,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.multipedidos</groupId>
+    <groupId>com.multipedidos.commons</groupId>
     <artifactId>commons-library</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
